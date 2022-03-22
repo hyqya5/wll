@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "95845502",
+      "name": "圆白菜",
+      "font_class": "yuanbaicai",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "95845503",
+      "name": "圆白菜",
+      "font_class": "yuanbaicai1",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "95845504",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "95845505",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "95845506",
+      "name": "电影",
+      "font_class": "dianying1",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "95845507",
+      "name": "演出",
+      "font_class": "yanchu",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "95845508",
+      "name": "演出(1)",
+      "font_class": "yanchu1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "95845509",
+      "name": "logo-猫眼电影",
+      "font_class": "maoyandianying",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "95846399",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "95846400",
+      "name": "奖杯",
+      "font_class": "jiangbei1",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3858759",
+      "name": "奖杯",
+      "font_class": "jiangbei2",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "14488590",
+      "name": "QQ音乐",
+      "font_class": "QQyinle",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "18667132",
+      "name": "电影院",
+      "font_class": "dianyingyuan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
