@@ -1,10 +1,10 @@
 <template>
-  <div></div>
+  <div>推荐</div>
 </template>
 
 <script>
 export default {
-  name: 'show-bar'
+  name: 'recommend-bar'
 }
 </script>
 

@@ -1,10 +1,10 @@
 <template>
-  <div></div>
+  <div>预告片</div>
 </template>
 
 <script>
 export default {
-  name: 'show-bar'
+  name: 'notice-bar'
 }
 </script>
 

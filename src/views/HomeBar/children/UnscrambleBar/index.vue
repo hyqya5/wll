@@ -1,10 +1,10 @@
 <template>
-  <div></div>
+  <div>热片解读</div>
 </template>
 
 <script>
 export default {
-  name: 'show-bar'
+  name: 'unscramble-bar'
 }
 </script>
 
